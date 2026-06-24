@@ -1,5 +1,5 @@
 #Austin Lineberry
-#June , 2026
+#June 21, 2026
 #Written for Bellevue University CSD325
 #Assignment 1.3
 
